@@ -1,0 +1,11 @@
+# Pastas de build/compilação do PyInstaller
+build/
+dist/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Configurações locais e ambiente
+.env
+.vscode/
